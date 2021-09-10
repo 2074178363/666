@@ -3,11 +3,11 @@
   <title>BOOOO&#39;S BLOG</title>
   
   
-  <link href="https://2074178363.github.io/666/atom.xml" rel="self"/>
+  <link href="https://blog.boooo.club/atom.xml" rel="self"/>
   
-  <link href="https://2074178363.github.io/666/"/>
+  <link href="https://blog.boooo.club/"/>
   <updated>2021-09-10T16:09:23.311Z</updated>
-  <id>https://2074178363.github.io/666/</id>
+  <id>https://blog.boooo.club/</id>
   
   <author>
     <name>BOOOO</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>关于九年级第一单元第三节比热容的理解</title>
-    <link href="https://2074178363.github.io/666/2021/09/11/%E5%85%B3%E4%BA%8E%E4%B9%9D%E5%B9%B4%E7%BA%A7%E7%AC%AC%E4%B8%80%E5%8D%95%E5%85%83%E7%AC%AC%E4%B8%89%E8%8A%82%E6%AF%94%E7%83%AD%E5%AE%B9%E7%9A%84%E7%90%86%E8%A7%A3/"/>
-    <id>https://2074178363.github.io/666/2021/09/11/%E5%85%B3%E4%BA%8E%E4%B9%9D%E5%B9%B4%E7%BA%A7%E7%AC%AC%E4%B8%80%E5%8D%95%E5%85%83%E7%AC%AC%E4%B8%89%E8%8A%82%E6%AF%94%E7%83%AD%E5%AE%B9%E7%9A%84%E7%90%86%E8%A7%A3/</id>
+    <link href="https://blog.boooo.club/2021/09/11/%E5%85%B3%E4%BA%8E%E4%B9%9D%E5%B9%B4%E7%BA%A7%E7%AC%AC%E4%B8%80%E5%8D%95%E5%85%83%E7%AC%AC%E4%B8%89%E8%8A%82%E6%AF%94%E7%83%AD%E5%AE%B9%E7%9A%84%E7%90%86%E8%A7%A3/"/>
+    <id>https://blog.boooo.club/2021/09/11/%E5%85%B3%E4%BA%8E%E4%B9%9D%E5%B9%B4%E7%BA%A7%E7%AC%AC%E4%B8%80%E5%8D%95%E5%85%83%E7%AC%AC%E4%B8%89%E8%8A%82%E6%AF%94%E7%83%AD%E5%AE%B9%E7%9A%84%E7%90%86%E8%A7%A3/</id>
     <published>2021-09-10T16:01:01.000Z</published>
     <updated>2021-09-10T16:09:23.311Z</updated>
     
@@ -40,14 +40,14 @@
     
     
     
-    <category term="比热容,物理" scheme="https://2074178363.github.io/666/tags/%E6%AF%94%E7%83%AD%E5%AE%B9-%E7%89%A9%E7%90%86/"/>
+    <category term="比热容,物理" scheme="https://blog.boooo.club/tags/%E6%AF%94%E7%83%AD%E5%AE%B9-%E7%89%A9%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>我的第一篇文章</title>
-    <link href="https://2074178363.github.io/666/2021/09/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>https://2074178363.github.io/666/2021/09/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <link href="https://blog.boooo.club/2021/09/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://blog.boooo.club/2021/09/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2021-09-10T15:15:41.000Z</published>
     <updated>2021-09-10T16:09:14.374Z</updated>
     
@@ -65,7 +65,7 @@
     
     
     
-    <category term="第一篇,文章,我" scheme="https://2074178363.github.io/666/tags/%E7%AC%AC%E4%B8%80%E7%AF%87-%E6%96%87%E7%AB%A0-%E6%88%91/"/>
+    <category term="第一篇,文章,我" scheme="https://blog.boooo.club/tags/%E7%AC%AC%E4%B8%80%E7%AF%87-%E6%96%87%E7%AB%A0-%E6%88%91/"/>
     
   </entry>
   
