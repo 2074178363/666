@@ -6,7 +6,7 @@
   <link href="https://boooo.club/atom.xml" rel="self"/>
   
   <link href="https://boooo.club/"/>
-  <updated>2021-09-12T02:40:50.701Z</updated>
+  <updated>2021-09-10T16:27:55.311Z</updated>
   <id>https://boooo.club/</id>
   
   <author>
@@ -15,29 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>啊这</title>
-    <link href="https://boooo.club/2021/09/12/%E5%95%8A%E8%BF%99/"/>
-    <id>https://boooo.club/2021/09/12/%E5%95%8A%E8%BF%99/</id>
-    <published>2021-09-12T02:40:23.000Z</published>
-    <updated>2021-09-12T02:40:50.701Z</updated>
-    
-    <content type="html"><![CDATA[<p>测试帖</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;测试帖&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="test" scheme="https://boooo.club/tags/test/"/>
-    
-  </entry>
   
   <entry>
     <title>我的论坛，快来查看！</title>
@@ -67,7 +44,7 @@
     <link href="https://boooo.club/2021/09/11/%E5%85%B3%E4%BA%8E%E4%B9%9D%E5%B9%B4%E7%BA%A7%E7%AC%AC%E4%B8%80%E5%8D%95%E5%85%83%E7%AC%AC%E4%B8%89%E8%8A%82%E6%AF%94%E7%83%AD%E5%AE%B9%E7%9A%84%E7%90%86%E8%A7%A3/"/>
     <id>https://boooo.club/2021/09/11/%E5%85%B3%E4%BA%8E%E4%B9%9D%E5%B9%B4%E7%BA%A7%E7%AC%AC%E4%B8%80%E5%8D%95%E5%85%83%E7%AC%AC%E4%B8%89%E8%8A%82%E6%AF%94%E7%83%AD%E5%AE%B9%E7%9A%84%E7%90%86%E8%A7%A3/</id>
     <published>2021-09-10T16:01:01.000Z</published>
-    <updated>2021-09-10T16:09:23.311Z</updated>
+    <updated>2021-09-19T02:08:22.666Z</updated>
     
     <content type="html"><![CDATA[<p>比热容可以理解为每种物质都有自己的游泳池</p><pre><code>游泳池的大小理解为比热容的大小游泳池里的水理解为吸收的热量游泳池的水深深度理解为温度高低</code></pre><p>教材方法分析：</p><pre><code>1. 吸收相同热量、质量相同的不同物质升高不同的温度、温度升高得多的比热容小：理解为：一个小游泳池和一个大游泳池放入相同多的水，小游泳池的水深深度上升得快，所以小游泳池容积小（比热容小）</code></pre><hr><pre><code>2. 相同质量的不同物质、升高相同的温度、吸收热量多的比热容大：理解为：两个游泳池升高相同的水深，放水多的泳池容积大（比热容大）</code></pre><p>感谢观看</p>]]></content>
     
@@ -86,7 +63,7 @@
     
     
     
-    <category term="比热容,物理" scheme="https://boooo.club/tags/%E6%AF%94%E7%83%AD%E5%AE%B9-%E7%89%A9%E7%90%86/"/>
+    <category term="比热容 物理" scheme="https://boooo.club/tags/%E6%AF%94%E7%83%AD%E5%AE%B9-%E7%89%A9%E7%90%86/"/>
     
   </entry>
   
@@ -95,7 +72,7 @@
     <link href="https://boooo.club/2021/09/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
     <id>https://boooo.club/2021/09/10/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2021-09-10T15:15:41.000Z</published>
-    <updated>2021-09-10T16:09:14.374Z</updated>
+    <updated>2021-09-19T02:08:42.146Z</updated>
     
     <content type="html"><![CDATA[<pre><code>Hello,everyone!我是来自涪陵的一名中学生，这是我的第一篇文章，欢迎大家支持！</code></pre>]]></content>
     
@@ -111,7 +88,7 @@
     
     
     
-    <category term="第一篇,文章,我" scheme="https://boooo.club/tags/%E7%AC%AC%E4%B8%80%E7%AF%87-%E6%96%87%E7%AB%A0-%E6%88%91/"/>
+    <category term="第一篇 文章 我" scheme="https://boooo.club/tags/%E7%AC%AC%E4%B8%80%E7%AF%87-%E6%96%87%E7%AB%A0-%E6%88%91/"/>
     
   </entry>
   
