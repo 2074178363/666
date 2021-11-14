@@ -6,7 +6,7 @@
   <link href="https://boooo.club/atom.xml" rel="self"/>
   
   <link href="https://boooo.club/"/>
-  <updated>2021-10-31T11:54:30.533Z</updated>
+  <updated>2021-11-14T11:32:22.979Z</updated>
   <id>https://boooo.club/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日常</title>
+    <link href="https://boooo.club/2021/11/14/%E6%97%A5%E5%B8%B8/"/>
+    <id>https://boooo.club/2021/11/14/%E6%97%A5%E5%B8%B8/</id>
+    <published>2021-11-14T11:24:55.000Z</published>
+    <updated>2021-11-14T11:32:22.979Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><video src="http://tp.1418.tk/videos/01.mp4"></video></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>方法</title>
@@ -130,9 +150,9 @@
     
     
     
-    <category term="我" scheme="https://boooo.club/tags/%E6%88%91/"/>
-    
     <category term="文章" scheme="https://boooo.club/tags/%E6%96%87%E7%AB%A0/"/>
+    
+    <category term="我" scheme="https://boooo.club/tags/%E6%88%91/"/>
     
     <category term="第一篇" scheme="https://boooo.club/tags/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
     
