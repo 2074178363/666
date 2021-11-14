@@ -6,7 +6,7 @@
   <link href="https://boooo.club/atom.xml" rel="self"/>
   
   <link href="https://boooo.club/"/>
-  <updated>2021-11-14T11:37:08.703Z</updated>
+  <updated>2021-11-14T12:46:22.486Z</updated>
   <id>https://boooo.club/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>聊天讨论区</title>
+    <link href="https://boooo.club/2021/11/14/%E8%81%8A%E5%A4%A9%E8%AE%A8%E8%AE%BA%E5%8C%BA/"/>
+    <id>https://boooo.club/2021/11/14/%E8%81%8A%E5%A4%A9%E8%AE%A8%E8%AE%BA%E5%8C%BA/</id>
+    <published>2021-11-14T12:23:26.000Z</published>
+    <updated>2021-11-14T12:46:22.486Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>本区用于讨论<br>注册<a href="https://github.com/">Github</a>账号进行聊天<br>以下为教程</p><h1 id="1-准备邮箱账号"><a href="#1-准备邮箱账号" class="headerlink" title="1.准备邮箱账号"></a>1.<strong>准备邮箱账号</strong></h1><ol><li>QQ邮箱：<a href="https://mail.qq.com/">QQ邮箱</a><br>打开后使用QQ登录<br><img src="https://gitee.com/qzonez/little-calligrapher/raw/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1636893128529.png" alt="邮箱登录"></li></ol><p><img src="https://gitee.com/qzonez/little-calligrapher/raw/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1636893168564.png" alt="邮箱登录"><br>2. 开启邮箱</p><h1 id="2-打开Github进行注册"><a href="#2-打开Github进行注册" class="headerlink" title="2. 打开Github进行注册"></a>2. 打开Github进行注册</h1><ol><li>打开<a href="https://github.com/signup">Github注册</a></li><li>输入你的电子邮箱<br><img src="https://gitee.com/qzonez/little-calligrapher/raw/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1636893595115.png" alt="输入邮箱"></li></ol><p><img src="https://gitee.com/qzonez/little-calligrapher/raw/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1636893679998.png" alt="输入邮箱"><br>3. 在邮箱里收到电子邮件，点击验证链接进行注册</p><h1 id="3-打开本博客进行聊天"><a href="#3-打开本博客进行聊天" class="headerlink" title="3.打开本博客进行聊天"></a>3.打开<a href="https://boooo.club/">本博客</a>进行聊天</h1><ol><li>点击小三角形=&gt;登录<br><img src="https://gitee.com/qzonez/little-calligrapher/raw/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1636893959812.png" alt="登录"></li><li>评论内容 点击“评论”即可进行聊天啦！<br><img src="https://gitee.com/qzonez/little-calligrapher/raw/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/1636893907128.png" alt="评论"></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="聊天" scheme="https://boooo.club/tags/%E8%81%8A%E5%A4%A9/"/>
+    
+    <category term="BOOOO" scheme="https://boooo.club/tags/BOOOO/"/>
+    
+    <category term="讨论" scheme="https://boooo.club/tags/%E8%AE%A8%E8%AE%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>日常</title>
@@ -54,9 +80,9 @@
     
     
     
-    <category term="方法" scheme="https://boooo.club/tags/%E6%96%B9%E6%B3%95/"/>
-    
     <category term="BOOOO" scheme="https://boooo.club/tags/BOOOO/"/>
+    
+    <category term="方法" scheme="https://boooo.club/tags/%E6%96%B9%E6%B3%95/"/>
     
   </entry>
   
